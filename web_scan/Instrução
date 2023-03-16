@@ -1,0 +1,6 @@
+Ferramenta simples para realizar um scan básico de arquivos e diretórios web.
+A ferramenta verificará se os diretórios e arquivos listados na sua wordlist podem ser acessados e exibirá os resultados.
+
+
+
+Forma de uso: python web_scanner.py https://example.com wordlist.txt
